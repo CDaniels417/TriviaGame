@@ -1,2 +1,2 @@
 # TriviaGame
-Timed 90' cartoon trivia game 
+Timed 90's cartoon trivia game 
