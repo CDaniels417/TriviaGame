@@ -1,0 +1,35 @@
+body {
+    background-image: url(../images/90s_cartoons.jpg);
+}
+#section {
+    color: #000000;
+    font-size: 60px;
+    font-family: 'Rock Salt', cursive;
+    text-align: center;
+    opacity: 0.8;
+    background-color: aliceblue;
+    height: 250px;
+    padding-top: 80px;
+    margin-bottom: 50px;
+}
+
+#subSection {
+    text-align: center;
+    background-color: aliceblue;
+    opacity: 0.9;
+    height: 400px; 
+    padding-top: 80px;
+}
+
+.answer-button {
+    vertical-align: middle;
+    padding: 10px;
+    text-align: center;
+    width: 200px;
+}
+
+h2 {
+    font-family: 'Rock Salt', cursive;
+    margin-bottom: 20px;
+}
+
